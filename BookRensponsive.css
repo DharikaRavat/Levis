@@ -1,0 +1,1056 @@
+@media (max-width : 1496px) {
+    .navbar {
+        background-color: white;
+    }
+
+    .sliders {
+        height: 370px;
+    }
+
+    .img-fluid {
+        height: 350px;
+    }
+
+    .movie-icon {
+        height: 410px;
+        width: 235px;
+    }
+
+    .movie-icon img {
+        width: 235px;
+        height: 410px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+
+    .movie-icon1 {
+        height: 260px;
+        width: 238px;
+    }
+
+    .movie-icon1 img {
+        width: 238px;
+        height: 260px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .movie-card {
+        height: 390px;
+        width: 238px;
+    }
+
+    .movie-card img {
+        width: 238px;
+        height: 390px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-top: 10px;
+    }
+
+
+    .event-card {
+        height: 380px;
+        width: 238px;
+    }
+
+    .event-card img {
+        width: 238px;
+        height: 380px;
+        border-radius: 10px;
+    }
+
+
+    .carousel-item .carousel-control-next,
+    .carousel-item .carousel-control-prev {
+        width: 50px;
+        height: 50px;
+        background-color: rgb(0, 0, 0);
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 180px;
+    }
+
+
+    .custom-prev-btn,
+    .custom-next-btn {
+        position: absolute;
+        top: 49%;
+        transform: translateY(-50%);
+        width: 50px;
+        height: 50px;
+        background-color: rgb(164, 160, 160);
+        border-radius: 50%;
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .btn-prev-custom,
+    .btn-next-custom {
+        background-color: rgb(116, 112, 112);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        top: 54%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+    .carousel-controls-prev,
+    .carousel-controls-next {
+        background-color: rgb(111, 109, 109);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        top: 35%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+
+}
+
+@media (max-width : 1200px) {
+    .navbar {
+        background-color: white;
+    }
+
+    .btnn1 {
+        color: red;
+    }
+
+    .sliders {
+        height: 370px;
+    }
+
+    .img-fluid {
+        height: 350px;
+    }
+
+
+    .carousel-control-prev {
+        width: 47px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.9);
+        border-radius: 0px 8px 8px 0px;
+        margin-top: 14%;
+    }
+
+    .carousel-control-next {
+        width: 47px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.9);
+        border-radius: 10px 0px 0px 10px;
+        margin-top: 14%;
+    }
+
+
+    .banner1 img {
+        height: 110px;
+    }
+
+    .movie-icon {
+        height: 410px;
+        width: 258px;
+    }
+
+    .movie-icon img {
+        width: 258px;
+        height: 410px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+
+    .movie-icon1 {
+        height: 250px;
+        width: 259px;
+    }
+
+    .movie-icon1 img {
+        width: 259px;
+        height: 250px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .movie-card {
+        height: 380px;
+        width: 258px;
+    }
+
+    .movie-card img {
+        width: 258px;
+        height: 380px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-top: 10px;
+    }
+
+
+    .event-card {
+        height: 380px;
+        width: 258px;
+    }
+
+    .event-card img {
+        width: 258px;
+        height: 380px;
+        border-radius: 10px;
+    }
+
+
+    .movies4-container .carousel-item {
+        height: 460px;
+    }
+
+
+    .carousel-item .carousel-control-next,
+    .carousel-item .carousel-control-prev {
+        width: 50px;
+        height: 50px;
+        background-color: rgb(0, 0, 0);
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 180px;
+    }
+
+
+    .custom-prev-btn,
+    .custom-next-btn {
+        position: absolute;
+        top: 47%;
+        transform: translateY(-50%);
+        width: 50px;
+        height: 50px;
+        background-color: rgb(164, 160, 160);
+        border-radius: 50%;
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .btn-prev-custom,
+    .btn-next-custom {
+        background-color: rgb(116, 112, 112);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        top: 54%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+    .carousel-controls-prev,
+    .carousel-controls-next {
+        background-color: rgb(111, 109, 109);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        top: 35%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+    .banner2 img {
+        height: 90px;
+        width: 100%;
+    }
+
+    .banner2 {
+        height: 90px;
+        width: 100%;
+    }
+
+
+}
+
+@media (max-width : 992px) {
+    .navbar {
+        background-color: white;
+    }
+
+    .btnn1 {
+        color: red;
+    }
+
+
+    .sliders {
+        height: 298px;
+    }
+
+    .img-fluid {
+        height: 280px;
+    }
+
+    .carousel-control-prev {
+        width: 40px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.9);
+        border-radius: 0px 8px 8px 0px;
+        margin-top: 13%;
+    }
+
+    .carousel-control-next {
+        width: 40px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.9);
+        border-radius: 10px 0px 0px 10px;
+        margin-top: 13%;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        width: 9px;
+        height: 9px;
+        border-radius: 50%;
+        background-color: rgb(209, 204, 204);
+        border: none;
+        margin: 4px;
+    }
+
+    .carousel-indicators .active {
+        background-color: white;
+        height: 10px;
+        width: 10px;
+    }
+
+    .footer-contact {
+        text-align: right;
+    }
+
+    .contact-btn {
+        background-color: #f54a69;
+        border: none;
+        color: white;
+        height: 40px;
+        width: 140px;
+        font-weight: 550;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+
+    .icon-card {
+        height: 100px;
+        width: 100px;
+    }
+
+    .movie-icon {
+        height: 390px;
+        width: 215px;
+    }
+
+    .movie-icon img {
+        width: 215px;
+        height: 390px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+
+    .movie-icon1 {
+        height: 230px;
+        width: 217px;
+    }
+
+    .movie-icon1 img {
+        width: 217px;
+        height: 230px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .movie-card {
+        height: 360px;
+        width: 215px;
+    }
+
+    .movie-card img {
+        width: 215px;
+        height: 360px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-top: 10px;
+    }
+
+
+    .event-card {
+        height: 340px;
+        width: 217px;
+    }
+
+    .event-card img {
+        width: 217px;
+        height: 340px;
+        border-radius: 10px;
+    }
+
+
+    .movie1-container .carousel-item {
+        height: 540px;
+    }
+
+    .movie2-container .carousel-item {
+        height: 520px;
+    }
+
+    .movies-container .carousel-item {
+        height: 520px;
+    }
+
+    .movies1-container .carousel-item {
+        height: 520px;
+    }
+
+    .movies2-container .carousel-item {
+        height: 470px;
+    }
+
+    .movies3-container .carousel-item {
+        height: 510px;
+    }
+
+    .movies4-container .carousel-item {
+        height: 440px;
+    }
+
+
+    .carousel-item .carousel-control-next,
+    .carousel-item .carousel-control-prev {
+        width: 45px;
+        height: 45px;
+        background-color: rgb(0, 0, 0);
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 160px;
+    }
+
+
+    .custom-prev-btn,
+    .custom-next-btn {
+        position: absolute;
+        top: 47%;
+        transform: translateY(-50%);
+        width: 45px;
+        height: 45px;
+        background-color: rgb(164, 160, 160);
+        border-radius: 50%;
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .btn-prev-custom,
+    .btn-next-custom {
+        background-color: rgb(116, 112, 112);
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        top: 54%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+    .carousel-controls-prev,
+    .carousel-controls-next {
+        background-color: rgb(111, 109, 109);
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        top: 35%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+    .banner2 img {
+        height: 90px;
+        width: 100%;
+    }
+
+    .banner2 {
+        height: 90px;
+        width: 100%;
+    }
+    
+    
+    .city-icons {
+        flex-wrap: wrap;
+    }
+
+}
+
+@media (max-width : 768px) {
+
+    .navbar {
+        background-color: white;
+    }
+
+    .btnn1 {
+        color: red;
+    }
+
+    .movies {
+        height: 125px;
+    }
+
+
+    .sliders {
+        height: 257px;
+    }
+
+    .img-fluid {
+        height: 250px;
+    }
+
+    .icon-card {
+        height: 105px;
+        width: 105px;
+    }
+
+    .carousel-control-prev {
+        width: 40px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.9);
+        border-radius: 0px 8px 8px 0px;
+        margin-top: 15%;
+    }
+
+    .carousel-control-next {
+        width: 40px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.9);
+        border-radius: 10px 0px 0px 10px;
+        margin-top: 15%;
+    }
+
+
+    .carousel-indicators [data-bs-target] {
+        width: 9px;
+        height: 9px;
+        border-radius: 50%;
+        background-color: rgb(209, 204, 204);
+        border: none;
+        margin: 4px;
+    }
+
+    .carousel-indicators .active {
+        background-color: white;
+        height: 10px;
+        width: 10px;
+    }
+
+    .banner1 img {
+        height: 100px;
+    }
+
+
+    .carousel-item h6 {
+        font-size: 17px;
+        color: black;
+        margin-top: 15px;
+    }
+
+    .carousel-item p {
+        color: rgb(61, 59, 59);
+        font-size: 15px;
+    }
+
+    .movie-card p {
+        color: white;
+        font-size: 15px;
+    }
+
+
+    .footer-contact {
+        text-align: right;
+    }
+
+    .contact-btn {
+        background-color: #f54a69;
+        border: none;
+        color: white;
+        height: 40px;
+        width: 135px;
+        font-weight: 550;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+
+
+    .movie-icon {
+        height: 350px;
+        width: 213px;
+    }
+
+    .movie-icon img {
+        width: 213px;
+        height: 350px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .movie-container {
+        height: 610px;
+    }
+
+    .banner1 {
+        height: 150px;
+    }
+
+
+    .movie-icon1 {
+        height: 220px;
+        width: 215px;
+    }
+
+    .movie-icon1 img {
+        width: 215px;
+        height: 220px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .movie-card {
+        height: 330px;
+        width: 215px;
+    }
+
+    .movie-card img {
+        width: 215px;
+        height: 330px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-top: 10px;
+    }
+
+    .banner2 img {
+        height: 150px;
+    }
+
+    .event-card {
+        height: 310px;
+        width: 215px;
+    }
+
+    .event-card img {
+        width: 215px;
+        height: 310px;
+        border-radius: 10px;
+    }
+
+
+    .movie1-container .carousel-item {
+        height: 500px;
+    }
+
+    .movie2-container .carousel-item {
+        height: 460px;
+    }
+
+    .movies-container .carousel-item {
+        height: 460px;
+    }
+
+    .movies1-container .carousel-item {
+        height: 480px;
+    }
+
+    .movies2-container .carousel-item {
+        height: 420px;
+    }
+
+    .movies3-container .carousel-item {
+        height: 480px;
+    }
+
+    .movies4-container .carousel-item {
+        height: 406px;
+    }
+
+
+    .carousel-item .carousel-control-next,
+    .carousel-item .carousel-control-prev {
+        width: 40px;
+        height: 40px;
+        background-color: rgb(0, 0, 0);
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 160px;
+    }
+
+
+    .custom-prev-btn,
+    .custom-next-btn {
+        position: absolute;
+        top: 47%;
+        transform: translateY(-50%);
+        width: 40px;
+        height: 40px;
+        background-color: rgb(164, 160, 160);
+        border-radius: 50%;
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .btn-prev-custom,
+    .btn-next-custom {
+        background-color: rgb(116, 112, 112);
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        top: 54%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+    .carousel-controls-prev,
+    .carousel-controls-next {
+        background-color: rgb(111, 109, 109);
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        top: 35%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+    .banner2 img {
+        height: 80px;
+        width: 160%;
+    }
+
+    .banner2 {
+        height: 80px;
+        width: 100%;
+    }
+
+    .city-icons {
+        flex-wrap: wrap;
+    }
+
+}
+
+@media (max-width : 576px) {
+
+    .navbar {
+        background-color: white;
+    }
+
+    .btnn1 {
+        color: red;
+    }
+
+    .movies {
+        height: 125px;
+    }
+
+    .sliders {
+        height: 237px;
+    }
+
+    .img-fluid {
+        height: 220px;
+    }
+
+    .icon-card {
+        height: 110px;
+        width: 110px;
+    }
+
+    .carousel-control-prev {
+        width: 40px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.9);
+        border-radius: 0px 8px 8px 0px;
+        margin-top: 18%;
+    }
+
+    .carousel-control-next {
+        width: 40px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.9);
+        border-radius: 10px 0px 0px 10px;
+        margin-top: 18%;
+    }
+
+
+    .carousel-indicators [data-bs-target] {
+        width: 9px;
+        height: 9px;
+        border-radius: 50%;
+        background-color: rgb(209, 204, 204);
+        border: none;
+    }
+
+    .carousel-indicators .active {
+        background-color: white;
+        height: 10px;
+        width: 10px;
+    }
+
+    .movie-container {
+        height: 500px;
+    }
+
+    .banner1 img {
+        height: 80px;
+    }
+
+    .banner1 {
+        height: 120px;
+    }
+
+
+    .banner2 img {
+        height: 60px;
+        width: 100%;
+    }
+
+    .banner2 {
+        height: 60px;
+        width: 100%;
+    }
+
+
+    .moviee-container .carousel-inner {
+        height: 400px;
+    }
+
+    .carousel-item h6 {
+        font-size: 14px;
+        color: black;
+        margin-top: 15px;
+    }
+
+    .carousel-item p {
+        color: rgb(61, 59, 59);
+        font-size: 12px;
+    }
+
+    .movie-card p {
+        color: white;
+        font-size: 15px;
+    }
+
+    .footer-contact {
+        text-align: right;
+    }
+
+    .contact-btn {
+        background-color: #f54a69;
+        border: none;
+        color: white;
+        height: 40px;
+        width: 130px;
+        font-weight: 550;
+        font-size: 13px;
+        border-radius: 5px;
+    }
+
+
+    .movie-item {
+        display: flex;
+        gap: 20px;
+    }
+
+    .movie-icon {
+        height: 260px;
+        width: 200px;
+    }
+
+    .movie-icon img {
+        width: 200px;
+        height: 260px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .movie-icon1 {
+        height: 150px;
+        width: 159px;
+        margin-bottom: 20px;
+    }
+
+    .movie-icon1 img {
+        width: 159px;
+        height: 180px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .movie-card {
+        height: 270px;
+        width: 158px;
+    }
+
+    .movie-card img {
+        width: 158px;
+        height: 270px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-top: 10px;
+    }
+
+    .movie-card h5 {
+        color: white;
+        padding-top: 5px;
+        font-size: 16px;
+    }
+
+    .movie-card p {
+        color: white;
+        font-size: 13px;
+        font-weight: lighter;
+    }
+
+    .movie-container {
+        height: 495px;
+    }
+
+
+    .event-card {
+        height: 260px;
+        width: 158px;
+    }
+
+    .event-card img {
+        width: 158px;
+        height: 260px;
+        border-radius: 10px;
+    }
+
+    .movie-container .carousel-inner {
+        height: 530px;
+        margin-bottom: 50px;
+    }
+
+    .movie1-container .carousel-item {
+        height: 470px;
+    }
+
+    .movie2-container .carousel-item {
+        height: 440px;
+    }
+
+    .movies-container .carousel-item {
+        height: 420px;
+    }
+
+    .movies1-container .carousel-item {
+        height: 450px;
+    }
+
+    .movies2-container .carousel-item {
+        height: 380px;
+    }
+
+    .movies3-container .carousel-item {
+        height: 440px;
+    }
+
+    .movies4-container .carousel-item {
+        height: 365px;
+    }
+
+    .carousel-item .carousel-control-next,
+    .carousel-item .carousel-control-prev {
+        width: 35px;
+        height: 35px;
+        background-color: rgb(0, 0, 0);
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 120px;
+    }
+
+
+    .custom-prev-btn,
+    .custom-next-btn {
+        position: absolute;
+        top: 47%;
+        transform: translateY(-50%);
+        width: 35px;
+        height: 35px;
+        background-color: rgb(164, 160, 160);
+        border-radius: 50%;
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .btn-prev-custom,
+    .btn-next-custom {
+        background-color: rgb(116, 112, 112);
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        top: 54%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+
+    .carousel-controls-prev,
+    .carousel-controls-next {
+        background-color: rgb(111, 109, 109);
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        top: 30%;
+        transform: translateY(-50%);
+        position: absolute;
+        z-index: 10;
+        border: none;
+    }
+
+    .city-icons {
+        flex-wrap: wrap;
+    }
+}
